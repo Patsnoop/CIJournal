@@ -1,5 +1,9 @@
 {
   "dependencies": {
     "node": "^18.20.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
+  
 }
